@@ -1,0 +1,98 @@
+.blog-view-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.discripton-div {
+    width: 450px;
+    margin-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.deal-view {
+    margin-top: 15px;
+    background-color: #cc0c39;
+    width: 130px;
+    color: white;
+    padding: 5px;
+
+}
+
+.off-price {
+    color: red;
+    font-size: 30px;
+}
+
+.price-blogview {
+    margin-top: -28px;
+}
+
+.order-div {
+    margin-left: 15px;
+    border: 1px solid rgb(109, 96, 96);
+    width: 250px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+
+.price-view {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.In-stock {
+    color: green;
+    font-size: 20px;
+}
+
+.quantity {
+    font-size: 25px;
+}
+
+.delivery-view {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.option {
+    font-size: 18px;
+}
+
+.btn-add-to-cart {
+    background-color: #ffd814;
+    color: black;
+    padding: 5px 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 35px;
+    margin: 10px 25px;
+    width: 200px;
+
+}
+
+.btn-buy-now {
+    background-color: #ffa41c;
+    color: black;
+    padding: 5px 35px;
+    font-size: 20px;
+    border: none;
+    border-radius: 35px;
+    margin: 5px 25px;
+    width: 200px;
+}
+
+.btn {
+    margin-top: 25px;
+}
+.checkbox{
+    margin-top: 25px;  
+    width: 30px;
+    height: 20px;
+
+}
+.checkbox-add{
+    
+    font-size: 20px;
+}

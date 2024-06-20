@@ -1,0 +1,95 @@
+import Rating1 from "../src/images/image.png"
+const BlogData = [
+    {
+        id: "1",
+        title: "Leader Spyder 27.5T MTB Cycle/Bike Single Speed with Complete Accessories for Men - Matt Black/Orange Ideal for 15+ Years | Frame: 19 Inches",
+        Rating: "https://www.flaticon.com/free-icon/rating_10801392?term=rating&page=1&position=2&origin=search&related_id=10801392",
+        off: "65%",
+        price: "4,399",
+        cycleimage: "https://m.media-amazon.com/images/I/81y9uUq1lnL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Thu, 27 Jun, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    },
+    {
+        id: "2",
+        title: "Skyride Bmw X6 Cycle 6 Spoke Foldable Cycle With 21 Speed Gear Cycle With Dual Disc Brake Cycle Carbon Frame Suspension Bicycle For Men 26Inch Wheel Size (White), Cruiser Bike",
+        Rating: { Rating1 },
+        off: "65%",
+        price: "4399",
+        cycleimage: "https://m.media-amazon.com/images/I/81X89LiF5gL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Mon, 13 Oct, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    },
+    {
+        id: "3",
+        title: "Urban Terrain Galaxy Pro High Performance Mountain Cycles for Men with Front Suspension & Dual Disc Brake & Complete Accessories MTB Bike 26T Single Speed | Ideal for 13+ Years, White",
+        Rating: { Rating1 },
+        off: "65%",
+        price: "4399",
+        cycleimage: "https://m.media-amazon.com/images/I/61QWH8VYIuL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Sun, 2 Aug, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    },
+    {
+        id: "4",
+        title: "Avon Buke Bicycles Thrust 26T MTB Cycle for Adults | Wheel Size:26 inches | High-Tensile Steel Frame:17.5 inch | Rigid Fork | Matt Gloss Finish(White)",
+        Rating: { Rating1 },
+        off: "65%",
+        price: "4399",
+        cycleimage: "https://m.media-amazon.com/images/I/81y9uUq1lnL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Fri, 7 Mar, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    },
+    {
+        id: "5",
+        title: "Urban Terrain Galaxy Pro High Performance Mountain Cycles for Men with Front Suspension & Dual Disc Brake & Complete Accessories MTB Bike 26T Single Speed | Ideal for 13+ Years, White",
+        Rating: { Rating1 },
+        off: "65%",
+        price: "4399",
+        cycleimage: "https://m.media-amazon.com/images/I/81wGn2TQJeL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Tue, 27 Dec, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    },
+    {
+        id: "6",
+        title: "Leader Beast 26T Mountain Bicycle/Bike without Gear Single Speed with Front Suspension and Dual Disc Brake for Men - Ideal for 10+ Years (Frame: 18 Inches) (26T, Matt Black)",
+        Rating: { Rating1 },
+        off: "65%",
+        price: "4399",
+        cycleimage: "https://m.media-amazon.com/images/I/513-nqowTAL._AC_UY327_FMwebp_QL65_.jpg",
+        delivery: "FREE scheduled delivery as soon as ",
+        date: "Thu, 26 Jan, 8 AM - 5 PM",
+        previewimaage1: "https://m.media-amazon.com/images/I/81VdUNcVc+L._SX425_.jpg",
+        previewimaage2: "https://m.media-amazon.com/images/I/81nD+P8ityL._SX425_.jpg",
+        previewimaage3: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage4: "https://m.media-amazon.com/images/I/81R9kSTe4nL._SX425_.jpg",
+        previewimaage5: "https://m.media-amazon.com/images/I/81rwWMno3RL._SX425_.jpg"
+    }
+]
+
+export default BlogData
